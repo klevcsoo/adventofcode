@@ -1,0 +1,10 @@
+# Files without an extension
+*
+!/**/
+!*.*
+
+# macOS stuff
+.DS_Store
+
+# Java output files
+bin/
