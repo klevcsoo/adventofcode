@@ -1,6 +1,6 @@
-# Advent of Code _2022_
+# Advent of Code
 
-This is the **Advent of Code** 2022 calendar tasks done by me. There's a new task every day until Christmas and each of the tasks are made up of 2 sub-tasks (as I understand it).
+These are my solutions for the **Advent of Code** calendars. Every year, there's a new one, in which there are new tasks every day until Christmas and each of the tasks are made up of 2 sub-tasks.
 
 You can check the calendar out [here](https://adventofcode.com).
 
