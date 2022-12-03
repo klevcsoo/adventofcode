@@ -1,18 +1,9 @@
-## Getting Started
+# Advent of Code _2022_
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+This is the **Advent of Code** 2022 calendar tasks done by me. There's a new task every day until Christmas and each of the tasks are made up of 2 sub-tasks (as I understand it).
 
-## Folder Structure
+You can check the calendar out [here](https://adventofcode.com).
 
-The workspace contains two folders by default, where:
+You are also able to use whatever programming or scripting language you prefer, I went with Java because that is the single best language the planet has been blessed with and OOP is the most perfect thing ever obviously.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+_I use Typescript for literally everything, so it's for the sake of variety._
